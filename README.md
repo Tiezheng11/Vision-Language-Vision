@@ -29,7 +29,7 @@ Our VLV pipeline effectively distills knowledge from the text-conditioned diffus
 
 ## 0. Installation
 ```bash
-git clone https://github.com/Tiezheng11/VLV-AutoEncoder-Official.git
+git clone https://github.com/Tiezheng11/Vision-Language-Vision.git
 ```
 See [installation instructions](document/INSTALL.md) to create an environment and obtain requirements.
 
