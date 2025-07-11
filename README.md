@@ -2,9 +2,11 @@
 
 <div align="center">
 
-[![arXiv](https://img.shields.io/badge/2507.07104-b31b1b.svg)](https://arxiv.org/abs/2507.07104) 
-[![project](https://img.shields.io/badge/Project-Page-blue?logo=github)](https://tiezheng11.github.io/VLV-WebPage/) 
-[![huggingface](https://img.shields.io/badge/🤗%20HF-xxx)](https://huggingface.co/lambertxiao/Vision-Language-Vision-Captioner-Qwen2.5-3B) 
+[![Website](https://img.shields.io/badge/Project%20Page-Website-brightgreen?logo=googlechrome&logoColor=white)](https://lambert-x.github.io/Vision-Language-Vision/)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.07104-B31B1B.svg?logo=arXiv&logoColor=white)](https://arxiv.org/abs/2507.07104)
+[![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Tiezheng11/Vision-Language-Vision)
+[![HF Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/lambertxiao/Vision-Language-Vision-Captioner-Qwen2.5-3B)
+[![HF Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/ccvl/LAION-High-Qualtiy-Pro-6M-VLV)
 
 
 </div>
